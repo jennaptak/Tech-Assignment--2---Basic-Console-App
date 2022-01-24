@@ -1,0 +1,15 @@
+﻿// Jenna Ptak
+// 01/23/2022
+// Tech Assignment #2 - Basic Console App 
+using System;
+
+namespace Tech_Assignment_2_Basic_Console_App
+{
+    class MainClass
+    {
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("Hello Professor, my name is Jenna Ptak and I am looking forward to learning from you in this class!");
+        }
+    }
+}
